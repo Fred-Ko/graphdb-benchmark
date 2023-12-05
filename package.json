@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "arangojs": "^8.6.0",
+    "mysql2": "^3.6.5",
+    "neo4j-driver": "^5.15.0",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "dev": "ts-node main.ts"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.7"
+  }
+}
